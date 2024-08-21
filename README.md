@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Khaled Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Khaled Ali</h1>
 <h3 align="center">Machine Learning Engineer from Egypt</h3>
 
 
